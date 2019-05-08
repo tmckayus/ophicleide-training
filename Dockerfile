@@ -1,4 +1,4 @@
-FROM tmckay/openshift-spark:sp2.4
+FROM tmckay/openshift-spark:sp2.4-t
 
 USER root
 
